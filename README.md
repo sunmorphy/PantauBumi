@@ -7,7 +7,13 @@
 
 ## Screenshots
 
-![Dashboard Mockup](screenshots/mockup_1.png) ![Routing Mockup](screenshots/mockup_2.png) ![Reporting Mockup](screenshots/mockup_3.png)
+<div align="center">
+  <img src="screenshots/mockup_1.png" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/mockup_2.png" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/mockup_3.png" width="30%" />
+</div>
 
 ---
 
